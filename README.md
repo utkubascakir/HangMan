@@ -1,1 +1,1 @@
-# HangMan
+Classical hangman game made with C.
